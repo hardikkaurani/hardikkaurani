@@ -8,17 +8,17 @@
 
 ---
 
-<!-- CONNECT -->
+<!-- CONNECT (COLORFUL) -->
 
 <p align="center">
   <a href="https://linkedin.com/in/hardikkaurani">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hardikkaurani1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/hardik.kaurani_">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -59,7 +59,21 @@ I care about:
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,mysql,tailwind,redux,git,github,postman,docker,vercel,linux,figma,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,react,nodejs,express,mongodb,mysql,tailwind,redux,git,github,postman,docker,vercel,linux,figma,firebase,nginx,threejs,opencv,bootstrap,html,css" />
+</p>
+
+---
+
+## 🚀 Projects
+
+<p align="center">
+  <a href="https://github.com/hardikkaurani?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Click to explore my pinned and featured work</sub>
 </p>
 
 ---
