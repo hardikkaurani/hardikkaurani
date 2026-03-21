@@ -1,10 +1,10 @@
 <!-- PREMIUM GLOW BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000000&height=220&section=header&text=Hardik%20Kaurani&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000000&height=220&section=header&text=Hi%20I'm%20Hardik&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">⚡ Building Scalable Systems • Full-Stack Developer • Future SDE ⚡</h2>
+<h4 align="center">Building Scalable Systems • Full-Stack Developer • Future SDE</h4>
 
 ---
 
@@ -56,40 +56,11 @@ I care about:
 
 ---
 
-## ⚙️ Tech Stack (Expanded)
+## ⚙️ Tech Stack
 
-### 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=java\&logoColor=orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=yellow)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=blue)
-
-### 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge\&logo=tailwindcss\&logoColor=38B2AC)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js\&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge\&logo=express\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-111111?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-111111?style=for-the-badge\&logo=socket.io\&logoColor=white)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
-
-### 🛠️ Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge\&logo=vercel\&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,mysql,tailwind,redux,git,github,postman,docker,vercel,linux,figma,cpp" />
+</p>
 
 ---
 
@@ -116,7 +87,8 @@ I care about:
 
 ## 🧠 Philosophy
 
-> “Don’t make something slightly better
-Make something that feels like magic ”
-
----
+<p align="center">
+  <i>“Don’t make something slightly better<br/>
+  Make something that feels like magic”</i><br/><br/>
+  <b>— Hardik Kaurani</b>
+</p>
