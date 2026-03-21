@@ -116,10 +116,7 @@ I care about:
 
 ## 🧠 Philosophy
 
-> “Talk is cheap. Show me the code.”
+> “Don’t make something slightly better
+Make something that feels like magic ”
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hardikkaurani&icon=0&color=0" />
-</p>
