@@ -1,16 +1,10 @@
-<!-- PREMIUM BANNER -->
+<!-- HERO (BLACK BOX STYLE) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000000&height=220&section=header&text=Hardik%20Kaurani&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Hardik;Backend+Engineer;Full+Stack+Developer;Building+Real+World+Projects" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Hardik+👋;Backend+Engineer;Full+Stack+Developer;AI+Explorer;Building+Real+World+Projects" />
-</p>
-
-<h3 align="center">
-  ⚡ Building scalable systems • Future SDE ⚡
-</h3>
+<p align="center"><b>Building scalable systems • Future SDE</b></p>
 
 ---
 
@@ -18,41 +12,34 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/hardikkaurani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:hardikkaurani1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://instagram.com/hardik.kaurani_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%">
 
 I build systems, not just projects.
 
-* Backend-focused engineer
-* Practicing Data Structures & Algorithms daily
-* Building real-world full-stack applications
-* Exploring AI tools & system design
-
-I focus on:
-
-* Clean architecture
-* Performance
-* Scalability
-* Real-world impact
+* Backend-focused
+* DSA + System Design
+* Full-stack development
+* Real-world problem solving
 
 </td>
 
-<td width="40%">
+<td width="35%">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
@@ -62,71 +49,45 @@ I focus on:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,mysql,tailwind,redux,git,github,postman,docker,vercel,figma,linux,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,react,nodejs,express,mongodb,mysql,tailwind,redux,git,github,postman,docker,vercel,linux,figma" />
 </p>
 
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="8">
-    🚀 Java • JavaScript • Python • C++ • React • Node.js • Express • MongoDB • MySQL • Tailwind • Redux • Docker • Git • GitHub • Postman • Vercel • Linux • AI • System Design
-  </marquee>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 DevSphere AI
-
-Modern AI assistant (React + Node + Ollama)
-
-### 🔹 Air Guitar
-
-Gesture-based music interaction system
-
-### 🔹 Creator Platform Backend
-
-Scalable backend APIs
-
----
-
-## 📊 Stats
+<!-- FLOW EFFECT -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardikkaurani&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikkaurani&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkaurani&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=800&lines=Java+•+JavaScript+•+Python+•+C+++•+React+•+Node.js+•+Express+•+MongoDB+•+MySQL+•+Tailwind+•+Redux+•+Docker+•+Git+•+Linux+•+AI+•+System+Design" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+## Projects
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardikkaurani&theme=react-dark&hide_border=true" />
+  <a href="https://github.com/hardikkaurani?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-## ⚡ Signature
+## Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Hardik+Kaurani" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hardikkaurani&theme=dark&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikkaurani&theme=dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkaurani&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 🧠 Philosophy
-
-> “Talk is cheap. Show me the code.”
-
----
+## Activity
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hardikkaurani&icon=0&color=0" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hardikkaurani&theme=github-dark&hide_border=true" />
 </p>
