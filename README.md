@@ -1,14 +1,14 @@
 <!-- HERO -->
 
-<h1 align="center">Hi, I'm Hardik 👋</h1>
-
-<h3 align="center">
-  Building scalable systems • Full-Stack Developer • Future SDE
-</h3>
+<h1 align="center">Hardik Kaurani</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Engineer;Full+Stack+Developer;AI+Explorer;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Hardik+👋;Backend+Engineer;Full+Stack+Developer;AI+Explorer;Building+Real+World+Projects" />
 </p>
+
+<h3 align="center">
+  Building scalable systems • Future SDE
+</h3>
 
 ---
 
@@ -38,15 +38,8 @@ I build systems, not just projects.
 
 * Backend-focused engineer
 * Practicing Data Structures & Algorithms daily
-* Building real-world full-stack applications
-* Exploring AI tools & system design
-
-I focus on:
-
-* Clean architecture
-* Performance
-* Scalability
-* Real-world impact
+* Building full-stack applications
+* Exploring AI & system design
 
 </td>
 
@@ -63,24 +56,30 @@ I focus on:
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,mysql,tailwind,git,github,postman,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,mysql,tailwind,redux,git,github,postman,docker,vercel,figma,linux,cpp" />
+</p>
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    🚀 Java • JavaScript • Python • C++ • React • Node.js • Express • MongoDB • MySQL • Tailwind • Redux • Docker • Git • GitHub • Postman • Vercel • Linux • AI Tools • System Design
+  </marquee>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Auth System
+### 🔹 DevSphere AI
 
-JWT authentication + secure REST APIs + role-based access
+Modern AI assistant (React + Node + Ollama)
 
-### 🔹 Real-Time Chat App
+### 🔹 Air Guitar
 
-Socket.io based live messaging system
+Gesture-based music interaction system
 
-### 🔹 AI Tool
+### 🔹 Creator Platform Backend
 
-Local LLM integration using Ollama
+Scalable backend APIs for content platform
 
 ---
 
@@ -108,7 +107,7 @@ Local LLM integration using Ollama
 ## ⚡ Signature
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/signature.png" width="200px" />
+  <img src="https://raw.githubusercontent.com/hardikkaurani/hardikkaurani/main/assets/signature.png" width="200px" />
 </p>
 
 ---
