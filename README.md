@@ -1,7 +1,7 @@
-<!-- HERO (BLACK BOX STYLE) -->
+<!-- HERO (BLACK BOX STATIC) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Hardik;Backend+Engineer;Full+Stack+Developer;Building+Real+World+Projects" />
+  <img src="https://img.shields.io/badge/Hi,%20Hardik-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center"><b>Building scalable systems • Future SDE</b></p>
@@ -55,10 +55,8 @@ I build systems, not just projects.
   <img src="https://skillicons.dev/icons?i=java,js,python,cpp,react,nodejs,express,mongodb,mysql,tailwind,redux,git,github,postman,docker,vercel,linux,figma" />
 </p>
 
-<!-- FLOW EFFECT -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=800&lines=Java+•+JavaScript+•+Python+•+C+++•+React+•+Node.js+•+Express+•+MongoDB+•+MySQL+•+Tailwind+•+Redux+•+Docker+•+Git+•+Linux+•+AI+•+System+Design" />
+  Java • JavaScript • Python • C++ • React • Node.js • Express • MongoDB • MySQL • Tailwind • Redux • Docker • Git • Linux • AI • System Design
 </p>
 
 ---
@@ -67,7 +65,7 @@ I build systems, not just projects.
 
 <p align="center">
   <a href="https://github.com/hardikkaurani?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Projects-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View%20Projects-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
