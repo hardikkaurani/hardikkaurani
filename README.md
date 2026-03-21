@@ -1,14 +1,10 @@
-<!-- HERO -->
-
-<h1 align="center">Hardik Kaurani</h1>
+<!-- PREMIUM GLOW BANNER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+I'm+Hardik+👋;Backend+Engineer;Full+Stack+Developer;AI+Explorer;Building+Real+World+Projects" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000000&height=220&section=header&text=Hardik%20Kaurani&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">
-  Building scalable systems • Future SDE
-</h3>
+<h2 align="center">⚡ Building Scalable Systems • Full-Stack Developer • Future SDE ⚡</h2>
 
 ---
 
@@ -16,19 +12,19 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/hardikkaurani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:hardikkaurani1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://instagram.com/hardik.kaurani_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
 <table>
 <tr>
@@ -38,8 +34,15 @@ I build systems, not just projects.
 
 * Backend-focused engineer
 * Practicing Data Structures & Algorithms daily
-* Building full-stack applications
-* Exploring AI & system design
+* Building real-world full-stack apps
+* Exploring AI + system design
+
+I care about:
+
+* Clean architecture
+* Performance
+* Scalability
+* Real-world impact
 
 </td>
 
@@ -53,45 +56,52 @@ I build systems, not just projects.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack (Expanded)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,mysql,tailwind,redux,git,github,postman,docker,vercel,figma,linux,cpp" />
-</p>
+### 💻 Languages
 
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    🚀 Java • JavaScript • Python • C++ • React • Node.js • Express • MongoDB • MySQL • Tailwind • Redux • Docker • Git • GitHub • Postman • Vercel • Linux • AI Tools • System Design
-  </marquee>
-</p>
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=java\&logoColor=orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=blue)
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge\&logo=tailwindcss\&logoColor=38B2AC)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js\&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge\&logo=express\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-111111?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-111111?style=for-the-badge\&logo=socket.io\&logoColor=white)
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+
+### 🛠️ Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 DevSphere AI
-
-Modern AI assistant (React + Node + Ollama)
-
-### 🔹 Air Guitar
-
-Gesture-based music interaction system
-
-### 🔹 Creator Platform Backend
-
-Scalable backend APIs for content platform
-
----
-
-## 📊 Stats
+## 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardikkaurani&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikkaurani&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hardikkaurani&theme=dark&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikkaurani&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkaurani&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkaurani&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -104,17 +114,9 @@ Scalable backend APIs for content platform
 
 ---
 
-## ⚡ Signature
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hardikkaurani/hardikkaurani/main/assets/signature.png" width="200px" />
-</p>
-
----
-
 ## 🧠 Philosophy
 
-> Build. Break. Learn. Repeat.
+> “Talk is cheap. Show me the code.”
 
 ---
 
