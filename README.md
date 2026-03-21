@@ -1,24 +1,24 @@
-<!-- PREMIUM GLOW BANNER -->
+<!-- PREMIUM DARK BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000000&height=220&section=header&text=Hi%20I'm%20Hardik&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=220&section=header&text=Hi%20I'm%20Hardik!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h4 align="center">Building Scalable Systems • Full-Stack Developer • Future SDE</h4>
 
 ---
 
-<!-- CONNECT (COLORFUL) -->
+<!-- CONNECT (ICON STYLE DARK) -->
 
 <p align="center">
   <a href="https://linkedin.com/in/hardikkaurani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:hardikkaurani1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://instagram.com/hardik.kaurani_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
@@ -68,12 +68,12 @@ I care about:
 
 <p align="center">
   <a href="https://github.com/hardikkaurani?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" width="60" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Click to explore my pinned and featured work</sub>
+  <sub>Explore my pinned work</sub>
 </p>
 
 ---
