@@ -8,7 +8,7 @@
 
 ---
 
-<!-- CONNECT (ICON STYLE DARK) -->
+<!-- CONNECT (ICON STYLE) -->
 
 <p align="center">
   <a href="https://linkedin.com/in/hardikkaurani">
@@ -59,7 +59,9 @@ I care about:
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,react,nodejs,express,mongodb,mysql,tailwind,redux,git,github,postman,docker,vercel,linux,figma,firebase,nginx,threejs,opencv,bootstrap,html,css" />
+
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a> <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a> <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" /></a> <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" /></a> <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a> <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" /></a> <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" /></a> <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" /></a> <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" /></a> <a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux" /></a> <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman" /></a> <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" /></a> <a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" /></a> <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" /></a> <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" /></a> <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" /></a> <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx" /></a> <a href="https://threejs.org"><img src="https://skillicons.dev/icons?i=threejs" /></a> <a href="https://opencv.org"><img src="https://skillicons.dev/icons?i=opencv" /></a> <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
+
 </p>
 
 ---
@@ -81,12 +83,12 @@ I care about:
 ## 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardikkaurani&theme=dark&hide_border=true&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikkaurani&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hardikkaurani&theme=dark&hide_border=true&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikkaurani&theme=dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkaurani&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkaurani&layout=compact&theme=dark&hide_border=true" width="50%" />
 </p>
 
 ---
