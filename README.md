@@ -1,10 +1,14 @@
-<!-- PREMIUM GLOW BANNER -->
+<!-- HERO -->
+
+<h1 align="center">Hi, I'm Hardik 👋</h1>
+
+<h3 align="center">
+  Building scalable systems • Full-Stack Developer • Future SDE
+</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:000000&height=220&section=header&text=Hardik%20Kaurani&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Engineer;Full+Stack+Developer;AI+Explorer;Building+Real+World+Projects" />
 </p>
-
-<h2 align="center">⚡ Building Scalable Systems • Full-Stack Developer • Future SDE ⚡</h2>
 
 ---
 
@@ -12,19 +16,19 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/hardikkaurani">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hardikkaurani1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/hardik.kaurani_">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
 <table>
 <tr>
@@ -34,10 +38,10 @@ I build systems, not just projects.
 
 * Backend-focused engineer
 * Practicing Data Structures & Algorithms daily
-* Building real-world full-stack apps
-* Exploring AI + system design
+* Building real-world full-stack applications
+* Exploring AI tools & system design
 
-I care about:
+I focus on:
 
 * Clean architecture
 * Performance
@@ -56,52 +60,39 @@ I care about:
 
 ---
 
-## ⚙️ Tech Stack (Expanded)
+## ⚙️ Tech Stack
 
-### 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=java\&logoColor=orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=yellow)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=blue)
-
-### 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge\&logo=tailwindcss\&logoColor=38B2AC)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js\&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge\&logo=express\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-111111?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-111111?style=for-the-badge\&logo=socket.io\&logoColor=white)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
-
-### 🛠️ Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge\&logo=vercel\&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,mysql,tailwind,git,github,postman,docker,vercel" />
+</p>
 
 ---
 
-## 📊 Statistics
+## 🚀 Featured Projects
+
+### 🔹 Auth System
+
+JWT authentication + secure REST APIs + role-based access
+
+### 🔹 Real-Time Chat App
+
+Socket.io based live messaging system
+
+### 🔹 AI Tool
+
+Local LLM integration using Ollama
+
+---
+
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardikkaurani&theme=dark&hide_border=true&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikkaurani&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hardikkaurani&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikkaurani&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkaurani&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkaurani&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -114,9 +105,17 @@ I care about:
 
 ---
 
+## ⚡ Signature
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/signature.png" width="200px" />
+</p>
+
+---
+
 ## 🧠 Philosophy
 
-> “Talk is cheap. Show me the code.”
+> Build. Break. Learn. Repeat.
 
 ---
 
