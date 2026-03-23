@@ -60,44 +60,7 @@ I care about:
 
 <p align="center">
 
-<!-- Languages -->
-<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
-<a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a>
-<a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" /></a>
-
-<!-- Frontend -->
-<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
-<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
-<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
-<a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
-
-<!-- Backend -->
-<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" /></a>
-
-<!-- Databases -->
-<a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-<a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-
-<!-- Tools -->
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
-<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman" /></a>
-<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" /></a>
-
-<!-- DevOps -->
-<a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-<a href="https://render.com"><img src="https://skillicons.dev/icons?i=render" /></a>
-<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" /></a>
-
-<!-- Others -->
-<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" /></a>
-<a href="https://opencv.org"><img src="https://skillicons.dev/icons?i=opencv" /></a>
-<a href="https://threejs.org"><img src="https://skillicons.dev/icons?i=threejs" /></a>
-<a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+<a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a> <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" /></a> <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" /></a> <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" /></a> <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a> <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" /></a> <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" /></a> <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" /></a> <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" /></a> <a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux" /></a> <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a> <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman" /></a> <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" /></a> <a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" /></a> <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" /></a> <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" /></a> <a href="https://firebase.google.com"><img src="https://skillicons.dev/icons?i=firebase" /></a> <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx" /></a> <a href="https://threejs.org"><img src="https://skillicons.dev/icons?i=threejs" /></a> <a href="https://opencv.org"><img src="https://skillicons.dev/icons?i=opencv" /></a> <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
 
 </p>
 
