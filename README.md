@@ -66,12 +66,12 @@ I care about:
 <a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" /></a>
 <a href="https://cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
 <a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" /></a>
-<a href="https://numpy.org"><img src="https://skillicons.dev/icons?i=numpy" /></a>
-<a href="https://socket.io"><img src="https://skillicons.dev/icons?i=socketio" /></a>
-<a href="https://eslint.org"><img src="https://skillicons.dev/icons?i=eslint" /></a>
 <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" /></a>
 <a href="https://npmjs.com"><img src="https://skillicons.dev/icons?i=npm" /></a>
 <a href="https://framermotion.com"><img src="https://skillicons.dev/icons?i=framer" /></a>
+<a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux" /></a>
+<a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" /></a>
+<a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass" /></a>
 
 </p>
 
