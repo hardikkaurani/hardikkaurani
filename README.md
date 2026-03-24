@@ -14,9 +14,11 @@
   <a href="https://linkedin.com/in/hardikkaurani">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:hardikkaurani1@gmail.com">
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hardikkaurani1@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
   <a href="https://instagram.com/hardik.kaurani_">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
