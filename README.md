@@ -73,6 +73,14 @@ I care about:
 <a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux" /></a>
 <a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" /></a>
 <a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass" /></a>
+<img src="https://skillicons.dev/icons?i=redis" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=rabbitmq" />
+<img src="https://skillicons.dev/icons?i=jest" />
+<img src="https://img.shields.io/badge/Auth-JWT%20%7C%20OAuth-blue" />
+<img src="https://skillicons.dev/icons?i=githubactions" />
+<img src="https://skillicons.dev/icons?i=kafka" />
 
 </p>
 
