@@ -73,12 +73,12 @@ I care about:
 <a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux" /></a>
 <a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" /></a>
 <a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass" /></a>
-<img src="https://skillicons.dev/icons?i=redis" />
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=rabbitmq" />
-<img src="https://skillicons.dev/icons?i=jest" />
-<img src="https://skillicons.dev/icons?i=githubactions" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
 
 
 </p>
