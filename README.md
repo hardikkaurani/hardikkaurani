@@ -73,13 +73,12 @@ I care about:
 <a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux" /></a>
 <a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" /></a>
 <a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
-
+<a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" /></a>
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" /></a>
+<a href="https://www.rabbitmq.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="48"/></a>
+<a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest" /></a>
+<a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="48"/></a>
 
 </p>
 
