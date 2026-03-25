@@ -78,9 +78,8 @@ I care about:
 <img src="https://skillicons.dev/icons?i=aws" />
 <img src="https://skillicons.dev/icons?i=rabbitmq" />
 <img src="https://skillicons.dev/icons?i=jest" />
-<img src="https://img.shields.io/badge/Auth-JWT%20%7C%20OAuth-blue" />
 <img src="https://skillicons.dev/icons?i=githubactions" />
-<img src="https://skillicons.dev/icons?i=kafka" />
+
 
 </p>
 
