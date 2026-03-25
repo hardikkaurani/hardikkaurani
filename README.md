@@ -76,9 +76,9 @@ I care about:
 <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" /></a>
 <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" /></a>
 <a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" /></a>
-<a href="https://www.rabbitmq.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="48"/></a>
 <a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest" /></a>
-<a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="48"/></a>
+
+
 
 </p>
 
