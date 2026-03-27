@@ -70,7 +70,6 @@ I care about:
 <a href="https://kafka.apache.org"><img src="https://skillicons.dev/icons?i=kafka" /></a>
 <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" /></a>
 <a href="https://npmjs.com"><img src="https://skillicons.dev/icons?i=npm" /></a>
-<a href="https://redux.js.org"><img src="https://skillicons.dev/icons?i=redux" /></a>
 <a href="https://graphql.org"><img src="https://skillicons.dev/icons?i=graphql" /></a>
 <a href="https://sass-lang.com"><img src="https://skillicons.dev/icons?i=sass" /></a>
 <a href="https://redis.io"><img src="https://skillicons.dev/icons?i=redis" /></a>
