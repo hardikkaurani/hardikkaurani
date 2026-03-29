@@ -100,13 +100,11 @@ I care about:
 ## 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardikkaurani&theme=dark&hide_border=true&show_icons=true" width="48%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikkaurani&theme=dark&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkaurani&layout=compact&theme=dark&hide_border=true" width="50%" />
-</p>
+
 
 ---
 
