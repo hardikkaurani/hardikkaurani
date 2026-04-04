@@ -121,5 +121,5 @@ I care about:
 <p align="center">
   <i>“Don’t make something slightly better<br/>
   Make something that feels like magic”</i><br/><br/>
-  <b>— Hardik Kauranii</b>
+  <b>— Hardik Kaurani</b>
 </p>
