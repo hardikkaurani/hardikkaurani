@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=220&section=header&text=Hi%20I'm%20Hardik!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h4 align="center">Building Scalable Systems • Full-Stack Developer • Future SDE</h4>
+<h4 align="center">Building Scalable Systems • Full-Stack Developer</h4>
 
 ---
 
